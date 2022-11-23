@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "chusanbongda",
-    "slug": "chusanbongda",
+    "name": "myapp",
+    "slug": "myapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./public/icon.png",
